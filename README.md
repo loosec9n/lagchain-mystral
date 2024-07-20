@@ -1,1 +1,1 @@
-# PersonalProjects
+# Langchain and Mistral AI implementation
